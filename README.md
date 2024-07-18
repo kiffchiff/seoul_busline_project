@@ -10,6 +10,6 @@
 
 데이터는 용량문제로 구글드라이브 링크 공유
 
-### 최종분석코드 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/repository/blob/main/notebooks/analysis.ipynb)
+### 최종분석코드 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_9hQyyZVm5TvQEV9rZqUWtnwkDlL_RUl?usp=sharing)
 
 #### 수정중..
