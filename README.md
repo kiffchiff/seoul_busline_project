@@ -12,4 +12,4 @@
 
 ### 최종분석코드 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_9hQyyZVm5TvQEV9rZqUWtnwkDlL_RUl?usp=sharing)
 
-#### 수정중..
+#### 추가분석코드 [![Open In Colab](https://colab.research.google.com/drive/1SSeE_o3cafJEPtreyExtrsEtnHoJa4dw?usp=drive_link)
