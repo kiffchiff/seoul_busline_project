@@ -9,7 +9,7 @@
 - 생활이동_자치구_2024_04(모든 시간대)
 
 데이터는 용량문제로 구글드라이브 링크 공유
-### 데이터 [자료 다운로드](https://drive.google.com/drive/folders/1ZkKgDnbFJYfaoapovHlpJPtyWvzVIUst?usp=drive_link)
+### 데이터 [DATA](https://drive.google.com/drive/folders/1ZkKgDnbFJYfaoapovHlpJPtyWvzVIUst?usp=drive_link)
 
 ### 최종분석코드 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_9hQyyZVm5TvQEV9rZqUWtnwkDlL_RUl?usp=sharing)
 
